@@ -1,0 +1,196 @@
+body{
+    font-family: Verdana, sans-serif;
+}
+h1{
+    color: F7A76C;
+}
+h2{
+    color: D2001A;
+    font-family: audacieux 700;
+    text-align: center;
+}
+img{
+    height: 300px;
+    width: 600px;
+}
+h1{
+    text-align: center;
+    font-size: 85px;
+}
+
+.small-icon{
+    height: 50px;
+    width: 50px;
+}
+
+#photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity : 0.9;
+    box-shadow: 1px 1px 10px #FFAE6D;
+    border-radius: 20px;
+}
+
+#iconsocial{
+    height: 50px;
+    width: 50px;
+    border-radius: 90px;
+}
+
+p{
+    color: ea8c55;
+}
+
+#fonddecran{
+    height: 100vh;
+    width: 100vw;
+    z-index: -2;
+    position: fixed;
+    top: 0;
+    left: 0;
+    border-radius: 0;
+    opacity: 0.5;
+}
+
+
+#rond{
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+}
+
+.histoire{
+    background-color:rgba(255, 166, 0, 0.233);
+    opacity: 1;
+    margin: 10px auto; 
+    padding: 10px;
+    text-align: center;
+    width: 600px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px #FFAE6D;
+    
+}
+
+.histoire{
+    border: 8px solid rgb(255, 179, 0);
+    box-shadow: 1px 1px 10px #FFAE6D;
+
+}
+
+.justifier{
+    margin-right: 20%;
+    margin-left: 20%;
+    gap: 30px;
+}
+
+.succès{
+    background-color:rgba(255, 166, 0, 0.233);
+    opacity: 1;
+    margin: 10px auto; 
+    padding: 10px;
+    text-align: center;
+    width: 600px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px #FFAE6D;
+    justify-content: center;
+}
+
+.sons{
+    background-color:rgba(255, 166, 0, 0.233);
+    opacity: 1;
+    margin: 10px auto; 
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    width: 600px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px #FFAE6D;
+}
+
+
+.albums{
+    background-color:rgba(255, 166, 0, 0.233);
+    opacity: 1;
+    margin: 10px auto; 
+    padding: 10px;
+    text-align: center;
+    width: 600px;
+    border-radius: 20px;
+}
+
+.contacts{
+    background-color : white(255, 166, 0, 0.233);
+    opacity: 1;
+    margin: 10px auto; 
+    padding: 10px;
+    text-align: center;
+    width: 400px;
+    box-shadow: 1px 1px 10px #FFAE6D ;
+    justify-content: center; 
+    border-radius: 20px;
+}
+
+.siteofficiel{
+    background-color : white(255, 166, 0, 0.233);
+    opacity: 1;
+    margin: 10px auto; 
+    padding: 10px;
+    text-align: center;
+    width: 600px;
+    box-shadow: 1px 1px 10px #FFAE6D;
+    border-radius: 20px;     
+}
+
+ul{
+    list-style-type:none;
+}
+
+a{
+    text-decoration: none;
+}
+h5{
+    color: D2001A;
+    font-family: audacieux 700;
+    text-align: center;
+    color: D2001A;
+    font-size: 25px;
+}
+
+#logo{
+    height: 110px;
+    width: 170px;
+    justify-content:flex-start;
+    position:absolute;
+    top: 50px ;
+    left: 50px;
+}
+
+.container{
+    display: flex;
+    gap: 30px;
+    
+}
+
+#disqueor{
+    height: 180px;
+    width: 180px;
+    justify-content:flex-start;
+    position:absolute;
+    top: 50px ;
+    right:  50px;
+    border-radius: 10%;
+    box-shadow: 1px 1px 10px #FFAE6D 
+}
+
+.audio{
+    background-color:rgba(255, 166, 0, 0.233);
+    opacity: 1;
+    margin: 10px auto; 
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    width: 600px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px #FFAE6D;
+}
